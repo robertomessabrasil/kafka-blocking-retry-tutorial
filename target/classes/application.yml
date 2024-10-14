@@ -1,8 +1,0 @@
-spring:
-  application:
-    name:kafka-blocking-retry-tutorial
-server:
-  port:9090
-topics:
-  name-validation: "name-validation"
-  name-validation-dlt: "name-validation-dlt"

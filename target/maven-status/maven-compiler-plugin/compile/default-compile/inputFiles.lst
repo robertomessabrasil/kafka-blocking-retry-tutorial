@@ -1,4 +1,0 @@
-/home/wardog1/edu/kafka/kafka-blocking-retry-tutorial/src/main/java/io/github/robertomessabrasil/kafka_blocking_retry_tutorial/NameValidationConsumerApp.java
-/home/wardog1/edu/kafka/kafka-blocking-retry-tutorial/src/main/java/io/github/robertomessabrasil/kafka_blocking_retry_tutorial/consumer/NameValidationConsumer.java
-/home/wardog1/edu/kafka/kafka-blocking-retry-tutorial/src/main/java/io/github/robertomessabrasil/kafka_blocking_retry_tutorial/exception/ApiCallException.java
-/home/wardog1/edu/kafka/kafka-blocking-retry-tutorial/src/main/java/io/github/robertomessabrasil/kafka_blocking_retry_tutorial/producer/NameValidatorDLTConfig.java
