@@ -12,4 +12,9 @@ If you don't have a Kafka install, I recommend the Confluent Docker based setup:
 https://docs.confluent.io/platform/current/get-started/platform-quickstart.html#ce-docker-quickstart
 
 Watch the following video to know what to do:
+
 https://www.youtube.com/watch?v=nxHT_087G0Q
+
+Linkedin related article:
+
+https://www.linkedin.com/pulse/kafka-blocking-retry-roberto-messa-p2tgf/?trackingId=9nlNwXtUQrSvcVPrrqnm5Q%3D%3D
