@@ -17,4 +17,4 @@ https://www.youtube.com/watch?v=nxHT_087G0Q
 
 Linkedin related article:
 
-https://www.linkedin.com/pulse/kafka-blocking-retry-roberto-messa-p2tgf/?trackingId=9nlNwXtUQrSvcVPrrqnm5Q%3D%3D
+[https://www.linkedin.com/pulse/kafka-blocking-retry-roberto-messa-p2tgf/?trackingId=9nlNwXtUQrSvcVPrrqnm5Q%3D%3D](https://www.linkedin.com/pulse/kafka-retry-block-thats-question-roberto-messa-uwr2f/)
