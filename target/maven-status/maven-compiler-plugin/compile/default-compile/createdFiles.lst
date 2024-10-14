@@ -1,0 +1,4 @@
+io/github/robertomessabrasil/kafka_blocking_retry_tutorial/NameValidationConsumerApp.class
+io/github/robertomessabrasil/kafka_blocking_retry_tutorial/producer/NameValidatorDLTConfig.class
+io/github/robertomessabrasil/kafka_blocking_retry_tutorial/consumer/NameValidationConsumer.class
+io/github/robertomessabrasil/kafka_blocking_retry_tutorial/exception/ApiCallException.class
